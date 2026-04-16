@@ -53,4 +53,5 @@ minor project ai/
 
 ## 👨‍💻 Author
 
-MCA Final Year Project
+Sachin Kumar
+
